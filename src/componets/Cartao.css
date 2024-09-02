@@ -1,0 +1,26 @@
+.cartao {
+    
+    border: 1px solid #ddd; /* Borda suave */
+    border-radius: 8px; /* Cantos arredondados */
+    padding: 16px; /* Espaçamento interno */
+    border: 1px solid rgb(253, 82, 44);
+    box-shadow: 15px 40px 80px rgb(69, 245, 42); /* Sombra leve para profundidade */
+    background-color: #8ef4f9; /* Fundo branco */
+    margin: 16px; /* Espaçamento externo */
+    transition: transform 0.2s; /* Transição suave para efeitos de hover */
+  }
+  
+
+  
+  .cartao-titulo {
+    margin: 0 0 8px; /* Espaçamento inferior */
+    font-size: 20px; /* Tamanho do texto */
+    color: #030303; /* Cor do título */
+  }
+  
+  .cartao-descricao {
+    margin: 0; /* Remover margens */
+    font-size: 16px; /* Tamanho do texto da descrição */
+    color: #666; /* Cor da descrição */
+  }
+  
